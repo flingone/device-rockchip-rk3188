@@ -1,4 +1,4 @@
-KERNEL_DEFCONFIG := rk3188_box_sm3188b_kitkat_defconfig
+KERNEL_DEFCONFIG := rk3188_box_itu1898_kitkat_defconfig
 
 -include kernel/AndroidKernel.mk
 
