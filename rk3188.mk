@@ -11,6 +11,7 @@ PRODUCT_COPY_FILES += device/rockchip/common/phone/etc/apns-full-conf.xml:system
 PRODUCT_COPY_FILES += device/rockchip/common/phone/etc/spn-conf.xml:system/etc/spn-conf.xml
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.product.version = 1.0.0 \
+    ro.product.version = 999999999999 \
+    ro.product.platform = MS \
     ro.product.ota.host = www.rockchip.com:2300
 
